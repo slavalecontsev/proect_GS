@@ -5,10 +5,4 @@ print("Pudge Here")
 
 print("Hothing")
 
-bug
-bug
-bugbug
-bug
-bug
-bug
-
+print("Bug deleted")
